@@ -37,7 +37,7 @@ Basic knowledge of:
 ## Clone Project
 
 - To get a local copy up and running follow these simple example steps.
-- Clone this repository with `https://github.com/ndang11/github-profile.git` using your terminal or command line.
+- Clone this repository with `https://github.com/ndang11/github-profile.git` using your terminal or command-line.
 - Change to the project directory by entering: `cd github-profile` in the terminal.
 
 ## Steps
