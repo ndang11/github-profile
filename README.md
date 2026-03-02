@@ -40,7 +40,7 @@ Basic knowledge of:
 - Clone this repository with `https://github.com/ndang11/github-profile.git` using your terminal or command line.
 - Change to the project directory by entering: `cd github-profile` in the terminal.
 
-## Command Line Steps
+## Steps
 
 ```bash
 $ git clone https://github.com/ndang11/github-profile.git
