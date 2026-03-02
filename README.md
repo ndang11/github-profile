@@ -10,7 +10,7 @@ The GitHub Profile Search app lets you search for GitHub users by username and d
 
 This project is a simple yet functional GitHub user search tool built with JavaScript. It connects to the GitHub REST API to fetch user data in real-time.
 
-### Key Features:
+### Key Features
 - Search GitHub users by username
 - Display user avatar, name, and bio
 - Show follower and following counts
